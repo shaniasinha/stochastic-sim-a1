@@ -66,4 +66,4 @@ This repository contains the materials and code for **Assignment 1**, which focu
 ## Work Distribution
 
 The work was split (approximately) evenly among the three group members. For code, `git fame` screenshot included below:
-![](git-fame_report.png)
+![](git_fame_report.png)
