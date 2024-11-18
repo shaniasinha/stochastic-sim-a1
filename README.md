@@ -2,15 +2,11 @@
 
 This repository contains the materials and code for **Assignment 1**, which focuses on exploring properties of the Mandelbrot set using Monte Carlo methods. The goal is to estimate the area of the Mandelbrot set (\(A_M\)) and study its convergence behavior under different sampling techniques.
 
----
-
 ## Contents
 
 ### Files
 1. **`Assignment 1 - MANDELBROT.pdf`**: The assignment description outlining the objectives, tasks, and theoretical background for computing the area of the Mandelbrot set.
 2. **`code.ipynb`**: A Jupyter Notebook that implements the methods described in the assignment and provides results, visualizations, and analysis.
-
----
 
 ## Objectives
 1. **Understand the Mandelbrot Set**:
@@ -34,8 +30,6 @@ This repository contains the materials and code for **Assignment 1**, which focu
 5. **Improve Convergence**:
    - Formulate and test strategies to enhance the convergence rate of the Monte Carlo method.
 
----
-
 ## Features
 - **Mandelbrot Set Visualization**:
   - Generate visualizations of the Mandelbrot set to explore its structure.
@@ -54,8 +48,6 @@ This repository contains the materials and code for **Assignment 1**, which focu
 - **Optimization**:
   - Implement methods to improve the accuracy of area estimation.
 
----
-
 ## Usage
 
 ### Prerequisites
@@ -70,8 +62,6 @@ This repository contains the materials and code for **Assignment 1**, which focu
     - Visualize the Mandelbrot set.
     - Estimate the area using different sampling methods.
     - Analyze convergence behavior.
-
----
 
 ## Work Distribution
 
