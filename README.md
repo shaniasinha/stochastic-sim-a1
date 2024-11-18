@@ -53,7 +53,7 @@ This repository contains the materials and code for **Assignment 1**, which focu
 ### Prerequisites
 - Install the required Python libraries:
   ```bash
-  pip install numpy scipy matplotlib tqdm
+  pip install numpy scipy matplotlib typing joblib sobol_seq
   ```
 
 ### Running the Code
